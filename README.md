@@ -9,15 +9,14 @@
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+ 
+
+  
 </div>
-
-
-<h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/pytorch-20232a.svg?style=for-the-badge&logo=pytorch&logoColor=61DAFB" />
 </div>
+
 
 <br>
 
@@ -26,11 +25,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-F24E1E.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />&nbsp
 </div>
 
 <br>
@@ -45,25 +40,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@juheechoi01">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:lizchoi01@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/lizchoi01@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=03C75A"/>&nbsp
   </a>
 </div>
-<!--
-**juheechoi01/juheechoi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
